@@ -3,6 +3,8 @@
 # Description
 We taught basic game development skills with Roblox Studio to engage students in an interactive manner and foster interest in game development and information technology. The Technology Ambassador Program [(TAP)](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) program at Georgia Gwinnett College aims to attract students to IT and STEM. 
 
+[Video Demo](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/media/TAP%20VR%20Video.mp4)
+
 # Team
 Members
 - Red Godana
@@ -28,6 +30,8 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), November 4-5, 2023, Conway,
 Roblox Studio is a game development engine used to make games on the Roblox platform. 
 
 https://create.roblox.com/
+
+[Screenshot of Roblox Studio](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/media/Roblox%20Studio%20Screenshot.png)
 
 # Project Setup/Installation
 1. Download Roblox Studio at https://create.roblox.com/
