@@ -38,6 +38,6 @@ https://create.roblox.com/
 2. Download the [“TAP Roblox Workshop File.rbxl”](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/code/TAP%20Roblox%20Workshop%20File.rbxl) file
 
 # Usage
-1. Open the file
+1. Open the file in Roblox Studio
 2. Click play to start the workshop
 3. Follow along with the signs in the Roblox Studio file
