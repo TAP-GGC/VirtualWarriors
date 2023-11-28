@@ -21,10 +21,10 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), November 4-5, 2023, Conway,
 - Red Godana, Ronoquade Lawrence, Sean Nolan, Anca Doloc-Mihu, Cindy Robertson. Using Roblox and VR to Inspire Game Development Skills and STEM Interest, CREATE Symposium, Nov 30, 2023, Georgia Gwinnett College.
 
 # Outreach Activities
-- Super Saturday Series (S3), Oct 28th, GGC: Project demo to middle school students. Target: Inspire them to choose IT as a career, or a career in a STEM field.
+- Super Saturday Series (S3), Oct 28th 2023, GGC: Project demo to middle school students. Target: Inspire them to choose IT as a career, or a career in a STEM field.
 - TAP Expo, Oct. 10th, GGC: Project demo to non-IT majors from across college. Target: Attract non-IT major students to IT, advertise the TAP program.
-- Classroom Workshops on Oct 24, Nov 14, Nov 16: Project demo to 1001 level IT students at GGC, to spark interests in IT, ITEC major opportunities, Game Development 
-- Consortium for Computing Sciences in Colleges (CCSC), Nov 3rd-4th, CCU: Poster presentation of project research results.
+- Classroom Workshops on Oct 24, Nov 14, Nov 16 2023: Project demo to 1001 level IT students at GGC, to spark interests in IT, ITEC major opportunities, Game Development 
+- Consortium for Computing Sciences in Colleges (CCSC), Nov 3rd-4th 2023, CCU: Poster presentation of project research results.
 
 # Technology
 Roblox Studio is a game development engine used to make games on the Roblox platform. 
