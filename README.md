@@ -38,6 +38,7 @@ https://create.roblox.com/
 2. Download the [“TAP Roblox Workshop File.rbxl”](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/code/TAP%20Roblox%20Workshop%20File.rbxl) file
 
 # Usage
-1. Open the file in Roblox Studio
-2. Click play to start the workshop
-3. Follow along with the signs in the Roblox Studio file
+1. Find "TAP Roblox VR File.rbxl" or "TAP Roblox Workshop File.rbxl" located in the Code folder
+2. Open the either roblox files in Roblox Studio by right clicking and select open with Roblox Studio
+3. Click play to start the workshop
+4. Follow along with the signs in the Roblox Studio file
