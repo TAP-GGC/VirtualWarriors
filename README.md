@@ -30,7 +30,7 @@ Advisors <br>
 4. Consortium for Computing Sciences in Colleges (CCSC), Nov 3rd-4th, 2023, CCU: Poster presentation of project research results.
 
 ## Technology
-<p>This project uses a Virtual Reality headset for demos and a computer with Roblex Studio installed on it for both the demo and the workshop. <br><br>
+<p>This project uses the Meta Quest 2 Virtual Reality headset for demos and a computer with Roblex Studio installed on it for both the demos and the workshops. <br><br>
 <b>Roblox Studio</b> <br> 
 - Roblox Studio is a program that is used to create games and virtual worlds on the Roblox platform. </p>
 
