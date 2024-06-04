@@ -38,8 +38,8 @@
 ## Technology
 <p>This project uses the Meta Quest 2 Virtual Reality headset for demos and a computer with Roblox Studio installed on it for the workshops. <br><br>
 <b>Roblox Studio</b> <br> 
-- Roblox Studio is a program that is used to create games and virtual worlds on the Roblox platform. <br>
-- Download at https://create.roblox.com/
+- Roblox Studio is a free program that is used to create games and virtual worlds on the Roblox platform. <br>
+- Download for free at https://create.roblox.com/
 </p>
 <img src= "media/Roblox Studio Screenshot.png" width="400"> <br>
 
