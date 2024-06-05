@@ -36,7 +36,7 @@
 ## Similar Projects
 
 ## Technology
-<p>This project uses the Meta Quest 2 Virtual Reality headset for demos and a computer with Roblox Studio installed on it for the workshops. <br><br>
+<p>This project uses the Meta Quest 2 Vir#al Reality headset for demos and a computer with Roblox Studio installed on it for the workshops. <br><br>
 <b>Roblox Studio</b> <br> 
 - Roblox Studio is a free program that is used to create games and virtual worlds on the Roblox platform. <br>
 - Download for free at https://create.roblox.com/
@@ -54,11 +54,20 @@
 
 
 
-# Project Setup/Installation
-1. Download Roblox Studio at https://create.roblox.com/
+## Project Setup/Installation
+### Installing Roblox Studio
+For instructions on how to install Roblox Studio please use the pdf file linked below. <br>
+![Installing Roblox Studio](media/Installing%20Roblox%20Studio.pdf)
+
+
+### Creating a Roblox Account
+For instructions on how to create a Roblox account please use the pdf file linked below. <br>
+
+### Downloading our Workshop File
+For instructions on how to download our workshop file please use the pdf file linked below. <br>
 2. Download the [“TAP Roblox Workshop File.rbxl”](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/code/TAP%20Roblox%20Workshop%20File.rbxl) file
 
-# Usage
+## Usage
 1. Find "TAP Roblox VR File.rbxl" or "TAP Roblox Workshop File.rbxl" located in the Code folder
 2. Open the either roblox files in Roblox Studio by right clicking and select open with Roblox Studio
 3. Click play to start the workshop
