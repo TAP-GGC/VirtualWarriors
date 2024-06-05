@@ -62,6 +62,7 @@ For instructions on how to install Roblox Studio please use the pdf file linked 
 
 ### Creating a Roblox Account
 For instructions on how to create a Roblox account please use the pdf file linked below. <br>
+![Creating Roblox Account](media/Creating%20Roblox%20Account.pdf)
 
 ### Downloading our Workshop File
 For instructions on how to download our workshop file please use the pdf file linked below. <br>
