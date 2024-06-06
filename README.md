@@ -66,7 +66,7 @@ For instructions on how to create a Roblox account please use the pdf file linke
 
 ### Downloading our Workshop File
 For instructions on how to download our workshop file please use the pdf file linked below. <br>
-2. Download the [“TAP Roblox Workshop File.rbxl”](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/code/TAP%20Roblox%20Workshop%20File.rbxl) file
+![Downloading Workshop File](media/Downloading%20Workshop%20File.pdf)
 
 ## Usage
 1. Find "TAP Roblox VR File.rbxl" or "TAP Roblox Workshop File.rbxl" located in the Code folder
