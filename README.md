@@ -68,8 +68,6 @@ For instructions on how to create a Roblox account please use the pdf file linke
 For instructions on how to download our workshop file please use the pdf file linked below. <br>
 ![Downloading Workshop File](media/Downloading%20Workshop%20File.pdf)
 
-## Usage
-1. Find "TAP Roblox VR File.rbxl" or "TAP Roblox Workshop File.rbxl" located in the Code folder
-2. Open the either roblox files in Roblox Studio by right clicking and select open with Roblox Studio
-3. Click play to start the workshop
-4. Follow along with the signs in the Roblox Studio file
+## Workshop Instructions
+For instructions on how to use our workshop file please use the pdf file linked below. <br>
+![Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf)
