@@ -1,6 +1,6 @@
 # Using Roblox and Virtual Reality to Teach Basic Game Development
 ## Description
-- Difficulty Level: Beginner <br>
+- Difficulty Level: Intermediate <br>
 - Target Audience: Middle School and Up <br>
 - Duration of workshop: Approximately 1 Hour <br>
 - Needed Materials: VR Headset, Computer with Internet Connection, Roblox Studio. <br>
