@@ -74,4 +74,4 @@ For instructions on how to use our workshop file please use the pdf file linked 
 
 ## Advanced Instructions
 For instructions on how to use our advanced workshop file please use the pdf file linked below. <br>
-
+![Roblox Advanced Workshop Walkthrough](media/TapAdvancedWorkshopWalkthroughPDF.pdf)
