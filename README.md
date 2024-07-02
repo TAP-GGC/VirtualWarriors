@@ -36,7 +36,7 @@
 ## Similar Projects
 
 ## Technology
-<p>This project uses the Meta Quest 2 Vir#al Reality headset for demos and a computer with Roblox Studio installed on it for the workshops. <br><br>
+<p>This project uses the Meta Quest 2 Viral Reality headset for demos and a computer with Roblox Studio installed on it for the workshops. <br><br>
 <b>Roblox Studio</b> <br> 
 - Roblox Studio is a free program that is used to create games and virtual worlds on the Roblox platform. <br>
 - Download for free at https://create.roblox.com/
