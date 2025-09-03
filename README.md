@@ -6,22 +6,23 @@
 - Needed Materials: VR Headset, Computer with Internet Connection, Roblox Studio. <br>
 - Using Virtual Reality and Roblox Studio, the aim of this project is to garner an increased interest in the video game development field and STEM by attenuating the stigma of difficulty surrounding both programming and video game development as a whole. <br>
 - Roblox Studio is a game development engine which allows you to build and program your own game. Throughout our workshop, students learn simple coding and 3D object manipulation.
+### Commercial Video 
+Click the image below to watch a 30 second commercial for the project <br> <br>
+[<img src= "media/robloxGame.PNG" width="400">](https://youtu.be/OWpitdI-BEQ)
 
-[Video Demo](https://github.com/TechAmbassadors-GGC/VirtualWarriors/blob/main/media/TAP%20VR%20Video.mp4)
 
 ## Team
-### Members <br>
-- Red Godana <br>
-- Ronoquade Lawrence <br>
-- Sean Nolan <br>
+
+<img src= "media/GroupPhoto.png" width="400"> <br>
+(Left: Sean Nolan, Middle: Ronoquade Lawrence, Right: Red Godana)
+
+- Red Godana 
+- Ronoquade Lawrence 
+- Sean Nolan 
 
 ### Advisors <br>
 - Dr. Anca Doloc Mihu <br>
 - Dr. Cindy Robertson <br>
-
-### Team Photo <br>
-<img src= "media/GroupPhoto.png" width="400"> <br>
-(Left: Sean Nolan, Middle: Ronoquade Lawrence, Right: Red Godana)
 
 ## Publications
 1. Red Godana, Ronoquade Lawrence, Sean Nolan, Anca Doloc-Mihu, Cindy Robertson. "Using Roblox and VR to Inspire Game Development Skills and STEM Interest", Consortium for Computing. Sciences in Colleges: Southeastern Region (CCSC:SE), November 4-5, 2023, Conway, SC
