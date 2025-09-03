@@ -57,9 +57,9 @@ Click the image below to watch a 30 second commercial for the project <br> <br>
 
 ## Project Setup/Installation
 ### Installing Roblox Studio
-For instructions on how to install Roblox Studio please use the pdf file linked below. <br>
-![Installing Roblox Studio](media/Installing%20Roblox%20Studio.pdf)
-
+For instructions on how to install Roblox Studio please use the pdf file ![Installing Roblox Studio](media/Installing%20Roblox%20Studio.pdf) or watch the short videos: <br>
+- ![create Roblox account video](https://youtu.be/Mu0E5oB6K0A)
+- ![install Roblox video](https://youtu.be/V6Xhoc1E3XA)
 
 ### Creating a Roblox Account
 For instructions on how to create a Roblox account please use the pdf file linked below. <br>
