@@ -66,9 +66,9 @@ For instructions on how to create a Roblox account, please use this pdf file [Cr
 For instructions on how to download our workshop file, please use the pdf file [Downloading Workshop File](media/Downloading%20Workshop%20File.pdf) or watch this short video [Downloading Workshop File Video](https://youtu.be/G4GH3dAIq4E)
 
 ## Workshop Instructions
-For instructions on how to use our workshop file, please use the pdf file [Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf).<br>
+For instructions on how to use our workshop file, please use the pdf file [Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf).<br> <br>
 Click the image below to watch  the project <br> 
-[<img src= "media/robloxGame.PNG" width="400">](https://youtu.be/OWpitdI-BEQ)
+[<img src= "media/envRoblox.PNG" width="400">](https://youtu.be/jK-vUmt0tbs)
 
 ## Advanced Instructions
 For instructions on how to use our advanced workshop file please use the pdf file linked below. <br>
