@@ -67,11 +67,14 @@ For instructions on how to download our workshop file, please use the pdf file [
 
 ## Workshop Instructions
 For instructions on how to use our workshop file, please use the pdf file [Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf).<br> <br>
-Click the image below to watch Roblox Workshop Walkthrough Video: <br> 
+Click the image below to watch <b>Roblox Workshop Walkthrough Video</b>: <br> 
 [<img src= "media/envRoblox.PNG" width="400">](https://youtu.be/jK-vUmt0tbs)
+
+Click the image below to watch <b>Workshop Code Walkthrough Video</b>: <br> 
+[<img src= "media/envRoblox.PNG" width="400">](https://youtu.be/OW56Lbc-IEs)  
 
 ## Advanced Instructions
 For instructions on how to use our advanced workshop file,  please use the pdf file [Roblox Advanced Workshop Walkthrough](media/TapAdvancedWorkshopWalkthroughPDF.pdf). <br> <br>
-Click the image below to watch the Advanced Roblox Workshop Walkthrough Video: <br>
-[<img src= "media/advancedWorkshop.PNG" width="400">](https://youtu.be/x82gl9WlWQ0)
+Click the image below to watch the <b>Advanced Roblox Workshop Walkthrough Video</b>: <br>
+[<img src= "media/codeWorkshop.PNG" width="400">](https://youtu.be/OW56Lbc-IEs)
 
