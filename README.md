@@ -65,15 +65,21 @@ For instructions on how to create a Roblox account, please use this pdf file [Cr
 ### Downloading our Workshop File
 For instructions on how to download our workshop file, please use the pdf file [Downloading Workshop File](media/Downloading%20Workshop%20File.pdf) or watch this short video [Downloading Workshop File Video](https://youtu.be/G4GH3dAIq4E)
 
+
+## Project Demo
+Click on the image below to watch a 1-minute video demoing the project in VR MetaQuest.<br>
+[<img src= "media/metaQuestGame.PNG">](https://youtu.be/ox9QuU1hYt8)
+
+
 ## Workshop Instructions
 For instructions on how to use our workshop file, please use the pdf file [Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf).<br> <br>
 Click the image below to watch <b>Roblox Workshop Walkthrough Video</b>: <br> 
-[<img src= "media/envRoblox.PNG" width="400">](https://youtu.be/jK-vUmt0tbs)
+[<img src= "media/envRoblox.PNG">](https://youtu.be/jK-vUmt0tbs)
 
 Click the image below to watch <b>Workshop Code Walkthrough Video</b>: <br> 
-[<img src= "media/codeWorkshop.PNG" width="400">](https://youtu.be/OW56Lbc-IEs)
+[<img src= "media/codeWorkshop.PNG">](https://youtu.be/OW56Lbc-IEs)
 
 ## Advanced Instructions
 For instructions on how to use our advanced workshop file,  please use the pdf file [Roblox Advanced Workshop Walkthrough](media/TapAdvancedWorkshopWalkthroughPDF.pdf). <br> <br>
 Click the image below to watch the <b>Advanced Roblox Workshop Walkthrough Video</b>: <br>
-[<img src= "media/advancedWorkshop.PNG" width="400">](https://youtu.be/x82gl9WlWQ0)  
+[<img src= "media/advancedWorkshop.PNG">](https://youtu.be/x82gl9WlWQ0)  
