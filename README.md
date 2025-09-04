@@ -57,18 +57,18 @@ Click the image below to watch a 30 second commercial for the project <br> <br>
 
 ## Project Setup/Installation
 ### Installing Roblox Studio
-For instructions on how to install Roblox Studio please use this pdf file [Installing Roblox Studio](media/Installing%20Roblox%20Studio.pdf) or watch this short video [Install Roblox Video](https://youtu.be/V6Xhoc1E3XA)
+For instructions on how to install Roblox Studio, please use this pdf file [Installing Roblox Studio](media/Installing%20Roblox%20Studio.pdf) or watch this short video [Install Roblox Video](https://youtu.be/V6Xhoc1E3XA)
 
 ### Creating a Roblox Account
-For instructions on how to create a Roblox account please use this pdf file [Creating Roblox Account](media/Creating%20Roblox%20Account.pdf) or watch this short video [Creating Roblox Account Video](https://youtu.be/Mu0E5oB6K0A)
+For instructions on how to create a Roblox account, please use this pdf file [Creating Roblox Account](media/Creating%20Roblox%20Account.pdf) or watch this short video [Creating Roblox Account Video](https://youtu.be/Mu0E5oB6K0A)
 
 ### Downloading our Workshop File
-For instructions on how to download our workshop file please use the pdf file linked below. <br>
-![Downloading Workshop File](media/Downloading%20Workshop%20File.pdf)
+For instructions on how to download our workshop file, please use the pdf file [Downloading Workshop File](media/Downloading%20Workshop%20File.pdf) or watch this short video [Downloading Workshop File Video](https://youtu.be/G4GH3dAIq4E)
 
 ## Workshop Instructions
-For instructions on how to use our workshop file please use the pdf file linked below. <br>
-![Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf)
+For instructions on how to use our workshop file, please use the pdf file [Roblox Workshop Walkthrough](media/Roblox%20Workshop%20Walkthrough.pdf).<br>
+Click the image below to watch  the project <br> 
+[<img src= "media/robloxGame.PNG" width="400">](https://youtu.be/OWpitdI-BEQ)
 
 ## Advanced Instructions
 For instructions on how to use our advanced workshop file please use the pdf file linked below. <br>
